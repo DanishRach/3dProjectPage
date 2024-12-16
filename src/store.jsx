@@ -37,6 +37,16 @@ const state = {
       link1: "https://github.com/DanishRach/WebisteGamers",
       link2: "https://game-3d-danish.vercel.app/",
     },
+    {
+      offset: 4,
+      factor: 2.85,
+      header: "3D Car",
+      image: "/car.png",
+      aspect: 1.5037,
+      text: "This is a personal project inspired by a Three.js example, where I attempted to recreate a space-themed game. The game features immersive sound effects, a shooting system, and fully 3D-designed assets. I used Three.js to bring the visual elements to life, showcasing my ability to work with 3D graphics and interactive features.",
+      link1: "https://github.com/DanishRach/3Dcar",
+      link2: "3d-car-two.vercel.app",
+    },
   ],
   stripes: [
     { offset: 0, color: "#000", height: 13 },
