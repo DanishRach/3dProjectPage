@@ -71,7 +71,7 @@ const state = {
       offset: 7,
       factor: 4.45,
       header: "Movie",
-      image: "/cinema.png",
+      image: "/movie.png",
       aspect: 1.5037,
       text: "This personal project was inspired by a Three.js example, where I recreated a moving 3D movie character. I took inspiration from Paul Henschel, an exceptional developer with deep expertise in 3D development.",
       link1: "https://github.com/DanishRach/3dMovie",
